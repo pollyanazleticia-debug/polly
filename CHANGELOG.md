@@ -1,7 +1,7 @@
 # Histórico de versões
 
-## Versão 5 — planejada
-- [ ] Pedido 1: (o pedido da sua dupla)
+## Versão 5 — publicada em 19/10
+- [x] Pedido 1: (fundo azul)
 
 ## Versão 4 — publicada em 19/10
 - [x] Pedido 1: emoji 🎉
